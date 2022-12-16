@@ -1,0 +1,17 @@
+<ObjectDescriptor>
+	<CanBeMutant>true</CanBeMutant>
+	<HasGender>true</HasGender>
+	<CanMove>true</CanMove>
+	<MaxHealth>15</MaxHealth>
+	<CanBreed>true</CanBreed>
+	<MaxBreedTimer>5</MaxBreedTimer>
+	<Food>
+		<Type>Fruit1</Type>
+		<Type>Fruit2</Type>
+		<Type>Fruit3</Type>
+		<Type>HerbivoreAnimal3</Type>
+	</Food>
+	<NewObjectPlacement>SameCell</NewObjectPlacement>
+</ObjectDescriptor>
+
+
