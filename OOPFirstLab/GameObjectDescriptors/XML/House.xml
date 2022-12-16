@@ -1,0 +1,11 @@
+<ObjectDescriptor>
+	<CanBeMutant>false</CanBeMutant>
+	<HasGender>false</HasGender>
+	<CanMove>false</CanMove>
+	<MaxHealth>0</MaxHealth>
+	<CanBreed>false</CanBreed>
+	<MaxBreedTimer>0</MaxBreedTimer>
+	<NewObjectPlacement>SameCell</NewObjectPlacement>
+</ObjectDescriptor>
+
+
